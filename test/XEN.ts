@@ -77,7 +77,7 @@ describe("XENCrypto", function () {
 
 
     });
-
+    
     /* it("Should set the right owner", async function () {
       const { lock, owner } = await loadFixture(deployXENFixture);
 
